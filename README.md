@@ -7,4 +7,8 @@ cd диск:\путь
 
 2. Далее там же в cmd прописать:
 
-git clone https://github.com/MythrilRoten/ElecJournal.git
+https://github.com/ChibiPipa/game-parody-Fall-Guys.git
+
+3. В файле Fall Guys_Data распакавать архив resources.assets.rar (затемжелательно сам архив удалить).
+
+4. Запустить экзешник.
